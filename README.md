@@ -1,0 +1,2 @@
+# Plauncher
+Официальный репозиторий Plauncher
